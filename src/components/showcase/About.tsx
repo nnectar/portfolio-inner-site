@@ -12,13 +12,13 @@ const About: React.FC<AboutProps> = (props) => {
         <div className="site-page-content">
             {/* <img src={me} style={styles.topImage} alt="" /> */}
             <h1 style={{ marginLeft: -16 }}>Welcome</h1>
-            <h3>I'm Henry Heffernan</h3>
+            <h3>I'm Nneoma Kanu</h3>
             <br />
             <div className="text-block">
                 <p>
-                    I'm a software engineer currently working at Vercel! In May
-                    of 2022 I graduated from Rensselaer Polytechnic Institute
-                    with my BS in Computer Science.
+                    I'm an independent builder and multi-passionate 
+                    creative designing intelligent orgs, 
+                    tools and products with frontier technologies!
                 </p>
                 <br />
                 <p>
@@ -27,8 +27,8 @@ const About: React.FC<AboutProps> = (props) => {
                     building it. If you have any questions or comments, feel
                     free to contact me using{' '}
                     <Link to="/contact">this form</Link> or shoot me an email at{' '}
-                    <a href="mailto:henryheffernan@gmail.com">
-                        henryheffernan@gmail.com
+                    <a href="mailto:nneoma@coldscollective.io">
+                        nneoma@coldscollective.io
                     </a>
                 </p>
             </div>
@@ -39,12 +39,13 @@ const About: React.FC<AboutProps> = (props) => {
                 <p>
                     From a young age, I have had a curiosity about how things
                     worked. This naturally led me to become absolutely obsessed
-                    with Lego and I fell in love with building things. In
-                    elementary school, I joined the Lego Robotics team at my
-                    local middle school, which was my first real exposure to
-                    programming. In 2008, my family and I moved across the
-                    country from California to New York, where I attended middle
-                    school, high school, and college.
+                    with crafts, puzzles, legos, and I fell in love with making things. 
+                    Throughout my schooling years, I joined lots of hobby clubs and read a shit ton of books. 
+                    Absolutely everything I could get my hands on. 
+                    These early experiences fueled my passion for building and experimenting, 
+                    whether it was with crafts, electronics, or simple coding projects. 
+                    Over time, this curiosity evolved into a deep interest in technology 
+                    and creative problem-solving.
                 </p>
                 <br />
                 <div className="captioned-image">
@@ -122,7 +123,7 @@ const About: React.FC<AboutProps> = (props) => {
                         <img src={meNow} style={styles.image} alt="" />
                         <p>
                             <sub>
-                                <b>Figure 2:</b> Me, April 2022
+                                <b>Figure 2:</b> Me, April 2025
                             </sub>
                         </p>
                     </div>
